@@ -1,8 +1,4 @@
 records = [
-"infradsfsfademo",
-"tekniskowner@vy.no",
-
-records = [
 "infrademo",
 "tekniskowner@vy.no",
 
