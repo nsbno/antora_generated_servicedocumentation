@@ -1,4 +1,0 @@
-records = [
-"infrademo",
-"tekniskowner@vy.no",
-
