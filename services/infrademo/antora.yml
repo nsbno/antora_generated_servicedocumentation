@@ -1,4 +1,6 @@
-name: infrademoversion: ~,
+name: infrademo,
+version: ~,
 title: tekniskowner@vy.no 
-nav: 
+
+nav:,
 - modules/ROOT/nav.adoc
