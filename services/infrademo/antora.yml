@@ -2,5 +2,5 @@ name: infrademo
 version: ~
 title: infrademo 
 
-nav:,
+nav:
 - modules/ROOT/nav.adoc

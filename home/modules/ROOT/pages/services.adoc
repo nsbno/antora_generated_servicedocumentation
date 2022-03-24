@@ -13,4 +13,4 @@ These are various services that exist in our org!
 |xref:trafficinfo-trainroute::api.adoc[], This project serves as a baseline when you wish to begin a new micro service exposing HTTP endpoints using Micronaut
 |xref:trafficinfo-operating-trainroute::api.adoc[], Microservice that provides current operating train route information about +-1 day of train routes and stops.
 |xref:trafficinfo-planned-trainroute::api.adoc[], Keeps a copy of the current trainplan (current term only)
-|===
+|===|xref:infrademo::api.adoc[], Microservice 
