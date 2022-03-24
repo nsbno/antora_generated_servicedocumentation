@@ -16,4 +16,5 @@ These are various services that exist in our org!
 |xref:infrademo::api.adoc[], Microservice 
 |xref:infrademo::api.adoc[], Microservice 
 |xref:infrademo::api.adoc[], Microservice 
+|xref:infrademo::api.adoc[], Microservice 
 |===
