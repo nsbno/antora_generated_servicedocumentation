@@ -1,0 +1,4 @@
+= API Reference
+:page-layout: swagger
+:page-swagger-url: ./test.openapi.yaml
+:reftext: infrademo
