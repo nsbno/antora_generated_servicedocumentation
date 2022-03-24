@@ -15,5 +15,3 @@ These are various services that exist in our org!
 |xref:trafficinfo-planned-trainroute::api.adoc[], Keeps a copy of the current trainplan (current term only)
 |xref:infrademo::api.adoc[], Microservice 
 |===
-|xref:infrademo::api.adoc[], Microservice 
-|===
