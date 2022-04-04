@@ -1,1 +1,3 @@
 = traincomposition
+
+Aggregator service to query for activities by location, trainId or resourceID. The main datatype handled by this aggregate is the Train Roster.
