@@ -1,0 +1,6 @@
+name: demo2
+version: ~
+title: demo2 
+
+nav:
+- modules/ROOT/nav.adoc

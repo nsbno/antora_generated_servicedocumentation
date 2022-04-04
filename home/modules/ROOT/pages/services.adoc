@@ -7,4 +7,5 @@ These are various services that exist in our org!
 [frame=all, grid=rows]
 |===
 |xref:infrademo::api.adoc[], Microservice 
+|xref:demo2::api.adoc[], Microservice 
 |===
