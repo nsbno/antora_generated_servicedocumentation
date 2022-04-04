@@ -8,4 +8,5 @@ These are various services that exist in our org!
 |===
 |xref:infrademo::api.adoc[], Microservice 
 |xref:demo2::api.adoc[], Microservice 
+|xref:traincomposition::api.adoc[], Microservice 
 |===
