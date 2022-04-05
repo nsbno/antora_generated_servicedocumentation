@@ -1,0 +1,6 @@
+name: traincomposition-train-activity
+version: ~
+title: traincomposition-train-activity 
+
+nav:
+- modules/ROOT/nav.adoc
