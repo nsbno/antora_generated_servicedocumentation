@@ -11,16 +11,16 @@ Code snippet to be added
 [.terraform]
 ....
 module "service_documentation" {
-  source                      = "github.com/nsbno/servicedocumentation?ref=50acefd"  
+  source                      = "github.com/nsbno/servicedocumentation?ref=60f220f"  
   name_prefix                 = local.name_prefix
   env                         = local.environment
   current_account_id          = data.aws_caller_identity.this.account_id
-  slack                       = "#team-plattform"
+  slack                       = "#team-kanalname"
   owner                       = "budgetowner@vy.no"
   technicalowner              = "tekniskowner@vy.no"
   servicesla                  = "99.7"
   growthmetric                = "transaction count"
-  aktivitetskode              = "125553"
-  api_gateway_id              = "mblqtka9y5"
+  aktivitetskode              = "123456"
+  api_gateway_id              = "mblqtka9aa"
 }
 ....
