@@ -1,1 +1,5 @@
 = rollingstock-driftstjenester-backend
+
+Dette er backend for webapplikasjonen til "Driftstjenester" Basert på baseline-micronaut template
+
+link:https://github.com/nsbno/rollingstock-driftstjenester-backend#readme

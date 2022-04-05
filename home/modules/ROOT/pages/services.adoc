@@ -6,8 +6,6 @@ These are various services that exist in our org!
 
 [frame=all, grid=rows]
 |===
-|xref:infrademo::api.adoc[], Microservice 
-|xref:demo2::api.adoc[], Microservice 
-|xref:traincomposition::api.adoc[], Microservice 
-|xref:rollingstock-driftstjenester-backend::api.adoc[], Microservice 
+|xref:traincomposition::api.adoc[], Aggregator service to query for activities by location, trainId or resourceID.
+|xref:rollingstock-driftstjenester-backend::api.adoc[], Dette er backend for webapplikasjonen til "Driftstjenester" Basert på baseline-micronaut template
 |===
