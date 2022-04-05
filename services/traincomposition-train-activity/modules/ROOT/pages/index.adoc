@@ -1,6 +1,1 @@
 = traincomposition-train-activity
-
-Aggregator service to query for activities by location, trainId or resourceID. The main datatype handled by this aggregate is the Train Roster.
-
-[.grid]
-link:https://github.com/nsbno/traincomposition-train-activity/tree/main
