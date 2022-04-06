@@ -1,4 +1,0 @@
-= API Reference
-:page-layout: swagger
-:page-swagger-url: https://developer.common-services.vydev.io/json/traincomposition.json
-:reftext: traincomposition
