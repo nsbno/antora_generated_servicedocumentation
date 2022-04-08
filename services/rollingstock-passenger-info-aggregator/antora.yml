@@ -1,0 +1,6 @@
+name: rollingstock-passenger-info-aggregator
+version: ~
+title: rollingstock-passenger-info-aggregator 
+
+nav:
+- modules/ROOT/nav.adoc
