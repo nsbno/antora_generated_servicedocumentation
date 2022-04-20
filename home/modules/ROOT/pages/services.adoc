@@ -9,6 +9,6 @@ These are various services that exist in our org!
 |xref:rollingstock-driftstjenester-backend::api.adoc[], Dette er backend for webapplikasjonen til "Driftstjenester" Basert på baseline-micronaut template
 |xref:traincomposition-train-activity::api.adoc[], Aggregator service to query for activities by location, trainId or resourceID.
 |xref:rollingstock-passenger-info-aggregator::api.adoc[], Microservice 
-|xref:aws-service-baseline::api.adoc[], Microservice
-|xref:message-adapter-siri::api.adoc[], Microservice 
+|xref:aws-service-baseline::api.adoc[], Baseline Microservice
+|xref:message-adapter-siri::api.adoc[], This service sends SIRI formatted ET and SX messages to active subscribers.
 |===
