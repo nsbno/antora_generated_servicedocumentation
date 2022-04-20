@@ -1,0 +1,6 @@
+name: aws-service-baseline
+version: ~
+title: aws-service-baseline 
+
+nav:
+- modules/ROOT/nav.adoc
