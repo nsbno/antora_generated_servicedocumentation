@@ -1,0 +1,6 @@
+name: message-adapter-siri
+version: ~
+title: message-adapter-siri 
+
+nav:
+- modules/ROOT/nav.adoc
