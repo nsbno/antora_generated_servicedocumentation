@@ -14,4 +14,5 @@ These are various services that exist in our org!
 |xref:operational-information-train::api.adoc[], This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
 |xref:fulfillment::api.adoc[], This service monitors fulfillment of tasks that should be completed in the Traffic Control context, such as distribution of operational information messages to expected recipients. 
 |xref:sertifikatregister-backend::api.adoc[], Backend for sertifikatregister 
+|xref:traincomposition-operational::api.adoc[], Microservice 
 |===
