@@ -1,0 +1,4 @@
+= API Reference
+:page-layout: swagger
+:page-swagger-url: https://developer.common-services.vydev.io/json/personnel-phonebook-backend.json
+:reftext: personnel-phonebook-backend
