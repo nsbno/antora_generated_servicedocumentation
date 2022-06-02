@@ -6,8 +6,13 @@ Here you can find a variety of information about our APIs and how to use them.
 [.panel]
 == xref:services.adoc[]
 
-A comprehensive list of all services available for use.
+A comprehensive list of all services available for use by Vy Development.
 This gives you a complete overview over the services and their endpoints.
+
+[.panel]
+== xref:servicesdigital.adoc[]
+
+A comprehensive list of all services available for use by Digitale Kanaler.
 
 [.panel]
 == xref:authentication.adoc[]
