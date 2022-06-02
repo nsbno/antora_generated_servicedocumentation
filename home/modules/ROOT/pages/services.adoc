@@ -16,5 +16,5 @@ These are various services that exist in our org!
 |xref:sertifikatregister-backend::api.adoc[], Backend for sertifikatregister 
 |xref:traincomposition-operational::api.adoc[], Microservice 
 |xref:personnel-phonebook-backend::api.adoc[], Microservice 
-|xref:affected-trains::api.adoc[], Microservice 
+|xref:affected-trains::api.adoc[], This service calculates trains affected by infrastructure incidents 
 |===
