@@ -1,0 +1,6 @@
+name: operational-event
+version: ~
+title: operational-event 
+
+nav:
+- modules/ROOT/nav.adoc
