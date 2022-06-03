@@ -17,4 +17,5 @@ These are various services that exist in our org!
 |xref:traincomposition-operational::api.adoc[], Microservice 
 |xref:personnel-phonebook-backend::api.adoc[], Microservice 
 |xref:affected-trains::api.adoc[], This service calculates trains affected by infrastructure incidents 
+|xref:alternative-transport::api.adoc[], Microservice 
 |===
