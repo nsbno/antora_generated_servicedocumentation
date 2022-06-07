@@ -1,0 +1,6 @@
+name: rollingstock-train-diagnostics
+version: ~
+title: rollingstock-train-diagnostics 
+
+nav:
+- modules/ROOT/nav.adoc
