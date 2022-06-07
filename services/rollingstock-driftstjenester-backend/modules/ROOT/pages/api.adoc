@@ -1,4 +1,4 @@
 = API Reference
 :page-layout: swagger
-:page-swagger-url: https://developer.common-services.vydev.io/json/rollingstock-driftstjenester-backend.json
+:page-swagger-url: https://developer.portal.vydev.io/json/rollingstock-driftstjenester-backend.json
 :reftext: {page-component-title}
