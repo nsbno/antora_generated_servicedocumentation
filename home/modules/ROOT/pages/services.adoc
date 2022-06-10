@@ -20,4 +20,5 @@ These are various services that exist in our org!
 |xref:alternative-transport::api.adoc[], Microservice 
 |xref:operational-event::api.adoc[], Microservice 
 |xref:rollingstock-train-diagnostics::api.adoc[], Microservice 
+|xref:infrademo::api.adoc[], Microservice 
 |===
