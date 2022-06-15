@@ -1,0 +1,6 @@
+name: rollingstock-status
+version: ~
+title: rollingstock-status 
+
+nav:
+- modules/ROOT/nav.adoc
