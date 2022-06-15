@@ -1,6 +1,0 @@
-name: infrademo
-version: ~
-title: infrademo 
-
-nav:
-- modules/ROOT/nav.adoc
