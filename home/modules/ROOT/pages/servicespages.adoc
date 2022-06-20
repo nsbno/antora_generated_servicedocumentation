@@ -4,7 +4,7 @@ These are various services in Vy development
 
 == Directory
 
-[frame=all, grid=rows]
+[frame=all, grid=all]
 |===
 |Application name | SLA | Technical Owner | Budget Owner | Slack | Growth Metric
 |infrademo | 99.7 | tekniskowner@vy.no | budgetowner@vy.no | #team-plattform | transaction count 
