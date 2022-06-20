@@ -7,4 +7,5 @@ These are various services in Vy development
 [frame=all, grid=rows]
 |===
 
+|infrademo, 99.7, tekniskowner@vy.no, budgetowner@vy.no, #team-plattform, transaction count 
 |===
