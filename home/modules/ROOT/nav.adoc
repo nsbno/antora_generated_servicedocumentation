@@ -1,5 +1,6 @@
 * xref:ROOT:index.adoc[Overview]
 * xref:ROOT:services.adoc[Services]
 * xref:ROOT:servicesdigital.adoc[Services Digitale Tjenester]
+** xref:ROOT:servicesdigital.adoc[Services Digitale Tjenester]
 * xref:ROOT:authentication.adoc[Authentication]
 * xref:ROOT:howto.adoc[How to add service]
