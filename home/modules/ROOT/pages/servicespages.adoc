@@ -6,6 +6,6 @@ These are various services in Vy development
 
 [frame=all, grid=all]
 |===
-|Application name | SLA | Technical Owner | Budget Owner | Slack | Growth Metric
-|infrademo | 99.7 | tekniskowner@vy.no | budgetowner@vy.no | #team-plattform | transaction count 
+|*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Slack* | *Growth Metric*
+|xref:infrademo::api.adoc[] | 99.7 | tekniskowner@vy.no | budgetowner@vy.no | #team-plattform | transaction count 
 |===
