@@ -6,6 +6,6 @@ These are various services in Vy development
 
 [frame=all, grid=rows]
 |===
-
+|Application name | SLA | Technical Owner | Budget Owner | Slack | Trasaction count
 |infrademo, 99.7, tekniskowner@vy.no, budgetowner@vy.no, #team-plattform, transaction count 
 |===
