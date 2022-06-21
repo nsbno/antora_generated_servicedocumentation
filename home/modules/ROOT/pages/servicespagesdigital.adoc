@@ -7,4 +7,5 @@ These are various services in Vy Digital
 [frame=all, grid=rows]
 |===
 
+|digitalekanaler-deviation | 99.7 | jarle.holtan@vy.no | erlend.weiby@vy.no | #team-reiseinfo | transaction count 
 |===
