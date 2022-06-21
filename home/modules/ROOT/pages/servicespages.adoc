@@ -13,4 +13,5 @@ These are various services in Vy development
 |xref:rollingstock-train-diagnostics::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-status::api.adoc[] | 99.7 | audun.halland@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-passenger-info-aggregator::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
+|xref:rollingstock-driftstjenester-backend::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |===
