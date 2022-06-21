@@ -10,4 +10,5 @@ These are various services in Vy development
 |operational-information | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |traincomposition-train-activity | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |traincomposition-operational | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
+|xref:rollingstock-train-diagnostics::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |===
