@@ -4,8 +4,8 @@ These are various services that exist in our org!
 
 == Directory
 
-[frame=all, grid=rows]
+[frame=all, grid=all]
 |===
-
+|*Application name* | *Description*
 |xref:digitalekanaler-deviation::api.adoc[], Microservice 
 |===
