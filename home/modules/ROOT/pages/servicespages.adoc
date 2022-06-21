@@ -7,4 +7,5 @@ These are various services in Vy development
 [frame=all, grid=all]
 |===
 |*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Slack* | *Growth Metric*
+|operational-information | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |===

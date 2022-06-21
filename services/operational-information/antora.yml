@@ -1,0 +1,6 @@
+name: operational-information
+version: ~
+title: operational-information 
+
+nav:
+- modules/ROOT/nav.adoc
