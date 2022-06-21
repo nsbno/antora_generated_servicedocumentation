@@ -1,4 +1,0 @@
-= API Reference
-:page-layout: swagger
-:page-swagger-url: https://developer.portal.vydev.io/json/digitalekanaler-deviation.json
-:reftext: digitalekanaler-deviation
