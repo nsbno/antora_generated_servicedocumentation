@@ -7,9 +7,9 @@ These are various services in Vy development
 [frame=all, grid=all]
 |===
 |*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Slack* | *Growth Metric*
-|operational-information | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
-|traincomposition-train-activity | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
-|traincomposition-operational | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
+|xref:operational-information::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
+|xref:traincomposition-train-activity::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
+|xref:traincomposition-operational::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |xref:rollingstock-train-diagnostics::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-status::api.adoc[] | 99.7 | audun.halland@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-passenger-info-aggregator::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
