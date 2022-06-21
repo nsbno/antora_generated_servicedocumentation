@@ -7,5 +7,5 @@ These are various services that exist in our org!
 [frame=all, grid=all]
 |===
 |*Application name* | *Description*
-|xref:digitalekanaler-deviation::api.adoc[], Microservice 
+|xref:digitalekanaler-deviation::api.adoc[] | Microservice 
 |===
