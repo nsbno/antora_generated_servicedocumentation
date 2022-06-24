@@ -21,5 +21,5 @@ These are various services in Vy development
 |xref:operational-event::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:operational-information-train::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:personnel-phonebook-backend::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-personell | transaction count 
-|xref:sertifikatregister-backend::api.adoc[] | 99.6 | team-personell-it@vy.no | team-personell-it@vy.no | #team-personnel | transaction count 
+|xref:sertifikatregister-backend::api.adoc[] | 99.6 | oystein.kvamme.repp@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |===
