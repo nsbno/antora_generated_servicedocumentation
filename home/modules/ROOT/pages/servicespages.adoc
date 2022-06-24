@@ -8,7 +8,6 @@ These are various services in Vy development
 |===
 |*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Slack* | *Growth Metric*
 |xref:operational-information::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
-|xref:traincomposition-train-activity::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |xref:traincomposition-operational::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |xref:rollingstock-train-diagnostics::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-status::api.adoc[] | 99.7 | audun.halland@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
@@ -22,4 +21,5 @@ These are various services in Vy development
 |xref:operational-information-train::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:personnel-phonebook-backend::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-personell | transaction count 
 |xref:sertifikatregister-backend::api.adoc[] | 99.6 | oystein.kvamme.repp@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
+|xref:traincomposition-train-activity::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |===
