@@ -44,8 +44,8 @@ parameters:
 ....
 
 
-
-Example for projects with api documentation in api gateway:
+=== Alternative setup without Orb
+Example for projects with api documentation in api gateway (For projects not using service-documentation orb):
 [.terraform]
 ....
 module "service_documentation" {
