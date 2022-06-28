@@ -37,7 +37,7 @@ documentation: "vydev/service-documentation@0.0.1"
 parameters:
       - documentation/publish-openapi-spec:
           path: backend/target/openapi/openapi.json
-          context: digitalekanaler
+          context: "name"
           filters:
             branches:
               only: master
