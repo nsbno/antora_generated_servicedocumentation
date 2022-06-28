@@ -2,6 +2,9 @@
 
 These are various services in Vy development
 
+Measured SLA for Core services are available from
+link:https://vy.statuspage.io/[Statuspage]::
+
 == Directory
 
 [frame=all, grid=all]
