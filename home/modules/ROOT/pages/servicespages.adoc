@@ -11,7 +11,6 @@ link:https://vy.statuspage.io/[Statuspage]::
 |===
 |*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Contact info slack channel* | *Growth Metric*
 |xref:operational-information::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
-|xref:traincomposition-operational::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |xref:rollingstock-train-diagnostics::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-status::api.adoc[] | 99.7 | audun.halland@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-passenger-info-aggregator::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
@@ -26,4 +25,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:sertifikatregister-backend::api.adoc[] | 99.6 | oystein.kvamme.repp@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |xref:traincomposition-train-activity::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |xref:reiserad-backend::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
+|xref:traincomposition-operational::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |===
