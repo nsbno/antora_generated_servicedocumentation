@@ -15,13 +15,13 @@ These are various services that exist in our org!
 |xref:operational-information-train::api.adoc[] | This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
 |xref:fulfillment::api.adoc[] | This service monitors fulfillment of tasks that should be completed in the Traffic Control context, such as distribution of operational information messages to expected recipients. 
 |xref:sertifikatregister-backend::api.adoc[] | Backend for sertifikatregister 
-|xref:traincomposition-operational::api.adoc[] | Microservice 
-|xref:personnel-phonebook-backend::api.adoc[] | Microservice 
+|xref:traincomposition-operational::api.adoc[] | Operational Train Composition Microservice 
+|xref:personnel-phonebook-backend::api.adoc[] | Backend microservice used for CRUD operations in the GSM-R Phonebook. 
 |xref:affected-trains::api.adoc[] | This service calculates trains affected by infrastructure incidents 
-|xref:alternative-transport::api.adoc[] | Microservice 
-|xref:operational-event::api.adoc[] | Microservice 
-|xref:rollingstock-train-diagnostics::api.adoc[] | Microservice 
-|xref:rollingstock-status::api.adoc[] | Microservice 
-|xref:operational-information::api.adoc[] | Microservice 
-|xref:reiserad-backend::api.adoc[] | Microservice 
+|xref:alternative-transport::api.adoc[] | Service responsible for managing alternative transportation plans and associated vehicles for service disruptions 
+|xref:operational-event::api.adoc[] | Trafficcontrol Operational Event 
+|xref:rollingstock-train-diagnostics::api.adoc[] | Rollingstock Train Diagnostics microservice. Single source-of-truth regarding sensor-data from trains
+|xref:rollingstock-status::api.adoc[] | RollingStock Status microservice 
+|xref:operational-information::api.adoc[] | Trafficcontrol Operational Information microservice implemented with Micronaut
+|xref:reiserad-backend::api.adoc[] | Service responsible for creating and maintaining travel tips (reiseråd). These are used to better guide travellers during planned or unplanned service disruptions. 
 |===
