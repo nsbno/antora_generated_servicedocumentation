@@ -6,6 +6,6 @@ These are various services in Vy Digital
 
 [frame=all, grid=all]
 |===
-|*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Contact info slack* | *Growth Metric*
+|*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Contact info slack channel* | *Growth Metric*
 |digitalekanaler-deviation | 99.7 | jarle.holtan@vy.no | erlend.weiby@vy.no | #team-reiseinfo | transaction count 
 |===
