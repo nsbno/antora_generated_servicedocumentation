@@ -24,4 +24,5 @@ These are various services that exist in our org!
 |xref:rollingstock-status::api.adoc[] | RollingStock Status microservice 
 |xref:operational-information::api.adoc[] | Trafficcontrol Operational Information microservice implemented with Micronaut
 |xref:reiserad-backend::api.adoc[] | Service responsible for creating and maintaining travel tips (reiseråd). These are used to better guide travellers during planned or unplanned service disruptions. 
+|xref:personnel-dayplan-distribution::api.adoc[] | Microservice 
 |===

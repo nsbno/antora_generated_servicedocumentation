@@ -1,0 +1,6 @@
+name: personnel-dayplan-distribution
+version: ~
+title: personnel-dayplan-distribution 
+
+nav:
+- modules/ROOT/nav.adoc
