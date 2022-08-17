@@ -32,7 +32,7 @@ CircleCI config for generating swagger file
 [.yml]
 ....
 orbs:
-documentation: "vydev/service-documentation@0.0.1"
+documentation: "vydev/service-documentation@0.0.5"
 
 parameters:
       - documentation/publish-openapi-spec:
