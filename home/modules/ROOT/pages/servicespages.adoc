@@ -28,4 +28,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:rollingstock-status::api.adoc[] | 99.7 | audun.halland@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-train-diagnostics::api.adoc[] | 99.7 | imre.kerr@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:reasoncodes::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
+|xref:planned-trainroute::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
 |===

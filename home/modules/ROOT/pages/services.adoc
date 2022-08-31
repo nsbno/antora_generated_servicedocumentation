@@ -26,4 +26,5 @@ These are various services that exist in our org!
 |xref:reiserad-backend::api.adoc[] | Service responsible for creating and maintaining travel tips (reiseråd). These are used to better guide travellers during planned or unplanned service disruptions. 
 |xref:personnel-dayplan-distribution::api.adoc[] | Microservice 
 |xref:reasoncodes::api.adoc[] | Microservice 
+|xref:planned-trainroute::api.adoc[] | Microservice 
 |===
