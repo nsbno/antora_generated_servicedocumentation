@@ -27,4 +27,5 @@ These are various services that exist in our org!
 |xref:personnel-dayplan-distribution::api.adoc[] | Microservice 
 |xref:reasoncodes::api.adoc[] | Microservice 
 |xref:planned-trainroute::api.adoc[] | Microservice 
+|xref:operating-trainroute::api.adoc[] | Microservice 
 |===
