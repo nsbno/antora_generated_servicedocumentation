@@ -8,4 +8,5 @@ These are various services that exist in our org!
 |===
 |*Application name* | *Description*
 |xref:digitalekanaler-deviation::api.adoc[] | Microservice 
+|xref:digitalekanaler-booking::api.adoc[] | Microservice 
 |===

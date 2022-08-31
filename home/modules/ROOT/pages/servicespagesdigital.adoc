@@ -8,4 +8,5 @@ These are various services in Vy Digital
 |===
 |*Application name* | *SLA* | *Technical Owner* | *Budget Owner* | *Contact info slack channel* | *Growth Metric*
 |digitalekanaler-deviation | 99.7 | jarle.holtan@vy.no | erlend.weiby@vy.no | #team-reiseinfo | transaction count 
+|xref:digitalekanaler-booking::api.adoc[] | 99.7 | jarle.holtan@vy.no | erlend.weiby@vy.no | #team-fellestjenester | transaction count 
 |===

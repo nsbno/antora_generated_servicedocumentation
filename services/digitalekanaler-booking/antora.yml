@@ -1,0 +1,6 @@
+name: digitalekanaler-booking
+version: ~
+title: digitalekanaler-booking 
+
+nav:
+- modules/ROOT/nav.adoc
