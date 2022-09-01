@@ -1,4 +1,4 @@
 = API Reference
 :page-layout: swagger
 :page-swagger-url: https://developer.portal.vydev.io/json/booking.json
-:reftext: digitalekanaler-booking
+:reftext: booking
