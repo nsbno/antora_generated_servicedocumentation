@@ -1,0 +1,6 @@
+name: operational-point
+version: ~
+title: operational-point 
+
+nav:
+- modules/ROOT/nav.adoc
