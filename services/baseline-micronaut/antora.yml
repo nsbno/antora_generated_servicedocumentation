@@ -1,0 +1,6 @@
+name: baseline-micronaut
+version: ~
+title: baseline-micronaut 
+
+nav:
+- modules/ROOT/nav.adoc

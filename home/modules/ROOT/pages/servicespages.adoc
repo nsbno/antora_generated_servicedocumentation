@@ -33,4 +33,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:fillrate::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
 |xref:personnel-phonebook-backend::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-personell | transaction count 
 |xref:operational-point::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
+|xref:baseline-micronaut::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
 |===

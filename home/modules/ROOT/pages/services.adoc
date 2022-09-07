@@ -30,4 +30,5 @@ These are various services that exist in our org!
 |xref:operating-trainroute::api.adoc[] | Microservice 
 |xref:fillrate::api.adoc[] | Microservice 
 |xref:operational-point::api.adoc[] | Microservice 
+|xref:baseline-micronaut::api.adoc[] | Microservice 
 |===
