@@ -1,0 +1,6 @@
+name: message-adapter-cpas
+version: ~
+title: message-adapter-cpas 
+
+nav:
+- modules/ROOT/nav.adoc
