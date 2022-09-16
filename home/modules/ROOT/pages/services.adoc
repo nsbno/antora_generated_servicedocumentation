@@ -24,12 +24,12 @@ These are various services that exist in our org!
 |xref:rollingstock-status::api.adoc[] | RollingStock Status microservice 
 |xref:operational-information::api.adoc[] | Trafficcontrol Operational Information microservice implemented with Micronaut
 |xref:reiserad-backend::api.adoc[] | Service responsible for creating and maintaining travel tips (reiseråd). These are used to better guide travellers during planned or unplanned service disruptions. 
-|xref:personnel-dayplan-distribution::api.adoc[] | Microservice 
-|xref:reasoncodes::api.adoc[] | Microservice 
-|xref:planned-trainroute::api.adoc[] | Microservice 
+|xref:personnel-dayplan-distribution::api.adoc[] | Cloud Microservice that facilitates the distribution of Dayplans. 
+|xref:reasoncodes::api.adoc[] | Consume reason code messages from tios and utin and serve reasoncodes via api 
+|xref:planned-trainroute::api.adoc[] | Keeps a copy of the current trainplan (current term only) 
 |xref:operating-trainroute::api.adoc[] | Microservice 
-|xref:fillrate::api.adoc[] | Microservice 
-|xref:operational-point::api.adoc[] | Microservice 
-|xref:baseline-micronaut::api.adoc[] | Microservice 
-|xref:message-adapter-cpas::api.adoc[] | Microservice 
+|xref:fillrate::api.adoc[] | The fillrate application produces fillrate predictions for the Vy.App, and provides passenger count for Topas. 
+|xref:operational-point::api.adoc[] | The Operational Point service provides a repository of Operational Points to other services. Typical examples for railway operational points are stations, block signals or stopping points. 
+|xref:baseline-micronaut::api.adoc[] | This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
+|xref:message-adapter-cpas::api.adoc[] | This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
 |===
