@@ -32,4 +32,5 @@ These are various services that exist in our org!
 |xref:operational-point::api.adoc[] | The Operational Point service provides a repository of Operational Points to other services. Typical examples for railway operational points are stations, block signals or stopping points. 
 |xref:baseline-micronaut::api.adoc[] | This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
 |xref:message-adapter-cpas::api.adoc[] | This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
+|xref:message-adapter-tios::api.adoc[] | Microservice 
 |===

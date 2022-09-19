@@ -1,0 +1,4 @@
+= API Reference
+:page-layout: swagger
+:page-swagger-url: https://developer.portal.vydev.io/json/message-adapter-tios.json
+:reftext: message-adapter-tios
