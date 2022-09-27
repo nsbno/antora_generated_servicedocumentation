@@ -33,4 +33,5 @@ These are various services that exist in our org!
 |xref:baseline-micronaut::api.adoc[] | This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
 |xref:message-adapter-cpas::api.adoc[] | This project serves as a baseline when you wish to begin a Micronaut Service running on AWS ECS. 
 |xref:message-adapter-tios::api.adoc[] | Microservice 
+|xref:rollingstock-seating-reservation::api.adoc[] | Microservice 
 |===
