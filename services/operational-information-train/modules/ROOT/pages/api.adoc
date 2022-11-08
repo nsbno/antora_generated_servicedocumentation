@@ -1,4 +1,0 @@
-= API Reference
-:page-layout: swagger
-:page-swagger-url: https://developer.portal.vydev.io/json/operational-information-train.json
-:reftext: operational-information-train

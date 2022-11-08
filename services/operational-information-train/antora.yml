@@ -1,6 +1,0 @@
-name: operational-information-train
-version: ~
-title: operational-information-train 
-
-nav:
-- modules/ROOT/nav.adoc
