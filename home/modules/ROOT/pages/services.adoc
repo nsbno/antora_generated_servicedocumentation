@@ -34,4 +34,5 @@ These are various services that exist in our org!
 |xref:message-adapter-tios::api.adoc[] | Microservice 
 |xref:rollingstock-seating-reservation::api.adoc[] | Microservice 
 |xref:personnel-sertifikatregister-backend::api.adoc[] | Microservice 
+|xref:hr-info-api::api.adoc[] | Microservice 
 |===

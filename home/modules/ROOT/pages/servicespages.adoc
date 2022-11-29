@@ -38,4 +38,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:rollingstock-seating-reservation::api.adoc[] | 99.7 | magnus.solemsli@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:sertifikatregister-backend::api.adoc[] | 99.6 | oystein.kvamme.repp@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |xref:personnel-sertifikatregister-backend::api.adoc[] | 99.7 | oystein.kvamme.repp@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
+|xref:hr-info-api::api.adoc[] | 0 | erik.bjercke@vy.no | arve.heieren@vy.no | #team-hr-integrasjon | usage 
 |===

@@ -1,0 +1,6 @@
+name: hr-info-api
+version: ~
+title: hr-info-api 
+
+nav:
+- modules/ROOT/nav.adoc
