@@ -39,4 +39,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:sertifikatregister-backend::api.adoc[] | 99.6 | oystein.kvamme.repp@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |xref:personnel-sertifikatregister-backend::api.adoc[] | 99.7 | oystein.kvamme.repp@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |xref:hr-info-api::api.adoc[] | 0 | erik.bjercke@vy.no | arve.heieren@vy.no | #team-hr-integrasjon | usage 
+|xref:operational-text::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |===

@@ -35,4 +35,5 @@ These are various services that exist in our org!
 |xref:rollingstock-seating-reservation::api.adoc[] | Microservice 
 |xref:personnel-sertifikatregister-backend::api.adoc[] | Microservice 
 |xref:hr-info-api::api.adoc[] | Microservice 
+|xref:operational-text::api.adoc[] | Microservice 
 |===

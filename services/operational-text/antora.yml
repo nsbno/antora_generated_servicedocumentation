@@ -1,0 +1,6 @@
+name: operational-text
+version: ~
+title: operational-text 
+
+nav:
+- modules/ROOT/nav.adoc
