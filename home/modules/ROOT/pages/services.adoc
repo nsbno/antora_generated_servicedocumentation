@@ -36,4 +36,5 @@ These are various services that exist in our org!
 |xref:personnel-sertifikatregister-backend::api.adoc[] | Backend repo for nye sertifikatregisteret 
 |xref:hr-info-api::api.adoc[] | API for HR data 
 |xref:operational-text::api.adoc[] | Module responsible for generating human readble texts from operational events 
+|xref:planned-trainroute-v2::api.adoc[] | Microservice 
 |===
