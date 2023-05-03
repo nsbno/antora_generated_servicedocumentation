@@ -38,4 +38,5 @@ These are various services that exist in our org!
 |xref:operational-text::api.adoc[] | Module responsible for generating human readble texts from operational events 
 |xref:planned-trainroute-v2::api.adoc[] | Microservice 
 |xref:personnel-staff-onboard::api.adoc[] | Microservice 
+|xref:personnel-document-distribution-backend::api.adoc[] | Microservice 
 |===
