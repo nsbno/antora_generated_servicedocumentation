@@ -1,0 +1,6 @@
+name: subscription
+version: ~
+title: subscription 
+
+nav:
+- modules/ROOT/nav.adoc

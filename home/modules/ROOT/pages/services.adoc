@@ -41,4 +41,5 @@ These are various services that exist in our org!
 |xref:personnel-document-distribution-backend::api.adoc[] | Microservice 
 |xref:rollingstock-pis-timetable-generator::api.adoc[] | Microservice 
 |xref:personnel-train-staff-push::api.adoc[] | Microservice 
+|xref:subscription::api.adoc[] | Microservice 
 |===
