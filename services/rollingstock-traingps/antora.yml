@@ -1,0 +1,6 @@
+name: rollingstock-traingps
+version: ~
+title: rollingstock-traingps 
+
+nav:
+- modules/ROOT/nav.adoc
