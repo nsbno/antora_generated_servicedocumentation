@@ -43,4 +43,5 @@ These are various services that exist in our org!
 |xref:personnel-train-staff-push::api.adoc[] | Microservice 
 |xref:subscription::api.adoc[] | Microservice 
 |xref:rollingstock-traingps::api.adoc[] | Microservice 
+|xref:notification::api.adoc[] | Microservice 
 |===
