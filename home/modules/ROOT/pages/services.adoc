@@ -36,12 +36,12 @@ These are various services that exist in our org!
 |xref:personnel-sertifikatregister-backend::api.adoc[] | Backend repo for nye sertifikatregisteret 
 |xref:hr-info-api::api.adoc[] | API for HR data 
 |xref:operational-text::api.adoc[] | Module responsible for generating human readble texts from operational events 
-|xref:planned-trainroute-v2::api.adoc[] | Microservice 
-|xref:personnel-staff-onboard::api.adoc[] | Microservice 
-|xref:personnel-document-distribution-backend::api.adoc[] | Microservice 
-|xref:rollingstock-pis-timetable-generator::api.adoc[] | Microservice 
-|xref:personnel-train-staff-push::api.adoc[] | Microservice 
-|xref:subscription::api.adoc[] | Microservice 
-|xref:rollingstock-traingps::api.adoc[] | Microservice 
-|xref:notification::api.adoc[] | Microservice 
+|xref:planned-trainroute-v2::api.adoc[] | Keeps a copy of the current trainplan (current term only)
+|xref:personnel-staff-onboard::api.adoc[] | A cloud microservice designed to provide information about the train staff on board.
+|xref:personnel-document-distribution-backend::api.adoc[] | Backend for document-distribution 
+|xref:rollingstock-pis-timetable-generator::api.adoc[] | A service for generating timetables to be sent to the passenger information systems that exist on the various vehicles operated by Vy. 
+|xref:personnel-train-staff-push::api.adoc[] | A cloud microservice designed to send real-time updates to clients for their aggregates, as well as acknowledgeable notifications for important changes, such as documents and day plans. 
+|xref:subscription::api.adoc[] | Subscription is a microservice for customer-related deviations. Its main tasks are to save push message subscriptions, read events from traffic-events and find out which customers are relevant for a deviation. 
+|xref:rollingstock-traingps::api.adoc[] | Gets train position data from the fleet manager service in regular intervals, saves the JSON to DynamoDb and distributes messages to SNS. 
+|xref:notification::api.adoc[] | This is the backend for "trafficcontrol-notification-frontend" 
 |===
