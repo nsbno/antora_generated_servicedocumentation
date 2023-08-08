@@ -51,4 +51,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:train-delay::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
 |xref:personnel-topas-aggregates::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |xref:train-roster::api.adoc[] | 99.7 | team-togsammensetning@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
+|xref:traincomposition-train-roster::api.adoc[] | 99.7 | team-togsammensetning@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |===
