@@ -46,6 +46,5 @@ These are various services that exist in our org!
 |xref:notification::api.adoc[] | This is the backend for "trafficcontrol-notification-frontend" 
 |xref:train-delay::api.adoc[] | Microservice 
 |xref:personnel-topas-aggregates::api.adoc[] | Microservice 
-|xref:train-roster::api.adoc[] | Microservice 
 |xref:traincomposition-train-roster::api.adoc[] | Microservice 
 |===
