@@ -43,8 +43,7 @@ These are various services that exist in our org!
 |xref:personnel-train-staff-push::api.adoc[] | A cloud microservice designed to send real-time updates to clients for their aggregates, as well as acknowledgeable notifications for important changes, such as documents and day plans. 
 |xref:subscription::api.adoc[] | Subscription is a microservice for customer-related deviations. Its main tasks are to save push message subscriptions, read events from traffic-events and find out which customers are relevant for a deviation. 
 |xref:rollingstock-traingps::api.adoc[] | Gets train position data from the fleet manager service in regular intervals, saves the JSON to DynamoDb and distributes messages to SNS. 
-|xref:notification::api.adoc[] | This is the backend for "trafficcontrol-notification-frontend" 
-|xref:train-delay::api.adoc[] | Microservice 
+|xref:notification::api.adoc[] | This is the backend for "trafficcontrol-notification-frontend"
 |xref:personnel-topas-aggregates::api.adoc[] | Microservice 
 |xref:traincomposition-train-roster::api.adoc[] | Microservice 
 |xref:trafficinfo-train-delay::api.adoc[] | Microservice 
