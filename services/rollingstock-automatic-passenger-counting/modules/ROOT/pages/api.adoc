@@ -1,0 +1,4 @@
+= API Reference
+:page-layout: swagger
+:page-swagger-url: https://developer.portal.vydev.io/json/rollingstock-automatic-passenger-counting.json
+:reftext: rollingstock-automatic-passenger-counting

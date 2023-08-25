@@ -1,0 +1,6 @@
+name: rollingstock-automatic-passenger-counting
+version: ~
+title: rollingstock-automatic-passenger-counting 
+
+nav:
+- modules/ROOT/nav.adoc

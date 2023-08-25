@@ -47,4 +47,5 @@ These are various services that exist in our org!
 |xref:personnel-topas-aggregates::api.adoc[] | Microservice 
 |xref:traincomposition-train-roster::api.adoc[] | Microservice 
 |xref:trafficinfo-train-delay::api.adoc[] | Microservice 
+|xref:rollingstock-automatic-passenger-counting::api.adoc[] | Microservice 
 |===
