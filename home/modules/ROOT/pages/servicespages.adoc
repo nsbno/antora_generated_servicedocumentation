@@ -52,4 +52,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:trafficinfo-train-delay::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
 |xref:rollingstock-automatic-passenger-counting::api.adoc[] | 99.7 | team-kjoretoy@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:aws-service-baseline::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
+|xref:message-adapter-entur::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |===

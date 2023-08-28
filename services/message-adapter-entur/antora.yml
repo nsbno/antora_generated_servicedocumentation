@@ -1,0 +1,6 @@
+name: message-adapter-entur
+version: ~
+title: message-adapter-entur 
+
+nav:
+- modules/ROOT/nav.adoc
