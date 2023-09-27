@@ -1,0 +1,6 @@
+name: rollingstock-energy-data
+version: ~
+title: rollingstock-energy-data 
+
+nav:
+- modules/ROOT/nav.adoc

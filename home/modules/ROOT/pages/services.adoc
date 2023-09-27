@@ -49,4 +49,5 @@ These are various services that exist in our org!
 |xref:trafficinfo-train-delay::api.adoc[] | Microservice 
 |xref:rollingstock-automatic-passenger-counting::api.adoc[] | Microservice 
 |xref:message-adapter-entur::api.adoc[] | Microservice 
+|xref:rollingstock-energy-data::api.adoc[] | Microservice 
 |===
