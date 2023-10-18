@@ -51,4 +51,5 @@ These are various services that exist in our org!
 |xref:message-adapter-entur::api.adoc[] | Microservice 
 |xref:rollingstock-energy-data::api.adoc[] | Microservice 
 |xref:deviation-banenor::api.adoc[] | Microservice 
+|xref:rollingstock-vehicle-monitoring::api.adoc[] | Microservice 
 |===

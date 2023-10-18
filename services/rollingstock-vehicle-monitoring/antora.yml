@@ -1,0 +1,6 @@
+name: rollingstock-vehicle-monitoring
+version: ~
+title: rollingstock-vehicle-monitoring 
+
+nav:
+- modules/ROOT/nav.adoc
