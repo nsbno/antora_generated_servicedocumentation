@@ -53,4 +53,5 @@ These are various services that exist in our org!
 |xref:deviation-banenor::api.adoc[] | Microservice 
 |xref:rollingstock-vehicle-monitoring::api.adoc[] | Microservice 
 |xref:alternative-transport-locations::api.adoc[] | Microservice 
+|xref:geolocation-bff::api.adoc[] | Microservice 
 |===
