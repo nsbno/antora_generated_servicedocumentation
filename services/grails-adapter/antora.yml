@@ -1,0 +1,6 @@
+name: grails-adapter
+version: ~
+title: grails-adapter 
+
+nav:
+- modules/ROOT/nav.adoc
