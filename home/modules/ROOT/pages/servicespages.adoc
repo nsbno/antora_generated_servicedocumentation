@@ -51,7 +51,6 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:traincomposition-train-roster::api.adoc[] | 99.7 | team-togsammensetning@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |xref:trafficinfo-train-delay::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
 |xref:rollingstock-automatic-passenger-counting::api.adoc[] | 99.7 | team-kjoretoy@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
-|xref:aws-service-baseline::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:message-adapter-entur::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:rollingstock-energy-data::api.adoc[] | 99.7 | team-kjoretoy@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
 |xref:rollingstock-vehicle-monitoring::api.adoc[] | 99.7 | team-kjoretoy@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
@@ -59,4 +58,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:alternative-transport-locations::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #alternativ-transport | transaction count 
 |xref:geolocation-bff::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:grails-adapter::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
+|xref:aws-service-baseline::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |===
