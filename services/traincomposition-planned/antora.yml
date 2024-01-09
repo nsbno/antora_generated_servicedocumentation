@@ -1,0 +1,6 @@
+name: traincomposition-planned
+version: ~
+title: traincomposition-planned 
+
+nav:
+- modules/ROOT/nav.adoc

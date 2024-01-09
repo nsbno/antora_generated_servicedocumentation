@@ -55,4 +55,5 @@ These are various services that exist in our org!
 |xref:alternative-transport-locations::api.adoc[] | Microservice 
 |xref:geolocation-bff::api.adoc[] | Microservice 
 |xref:grails-adapter::api.adoc[] | Microservice 
+|xref:traincomposition-planned::api.adoc[] | Microservice 
 |===
