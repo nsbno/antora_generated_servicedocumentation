@@ -39,7 +39,6 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:personnel-train-staff-push::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |xref:subscription::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:rollingstock-traingps::api.adoc[] | 99.7 | team-kjoretoy@vy.no | mads.boye@vy.no | #team-kjoretoy | transaction count 
-|xref:notification::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:personnel-topas-aggregates::api.adoc[] | 99.7 | henning.moberg.wold@vy.no | mads.boye@vy.no | #team-personnel | transaction count 
 |xref:traincomposition-train-roster::api.adoc[] | 99.7 | team-togsammensetning@vy.no | mads.boye@vy.no | #team-togsammensetning | transaction count 
 |xref:trafficinfo-train-delay::api.adoc[] | 99.7 | daniel.engfeldt@vy.no | mads.boye@vy.no | #team-ruteplan | transaction count 
@@ -60,4 +59,5 @@ link:https://vy.statuspage.io/[Statuspage]::
 |xref:fulfillment::api.adoc[] | 99.7 | niklas.johansen@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:message-adapter-entur::api.adoc[] | 99.7 | niklas.johansen@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |xref:reiserad-backend::api.adoc[] | 99.7 | niklas.johansen@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
+|xref:notification::api.adoc[] | 99.7 | hans.christian.alsos@vy.no | mads.boye@vy.no | #traffic-control | transaction count 
 |===
